@@ -1,0 +1,20 @@
+{
+    "name": "lab215-station11/grupul_2",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nichita599",
+            "email": "neculiti.nichita@elev.cihcahul.md"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.7",
+        "illuminate/database": "^11.30",
+        "laravel/serializable-closure": "^1.3"
+    }
+}
